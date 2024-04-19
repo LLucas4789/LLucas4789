@@ -1,6 +1,6 @@
 # Ola👋, me chamo Lucas Oliveria 
-- 💻Atualmente estudo JavaScript/Node.JS/TypeScript
-- 💻Currently I study JavaScript/Node.js/TypeScript
+- 💻Atualmente estudo C e Java
+- 💻Currently I study C and Java
 - 📖Primeiro periodo de Ciencia da computação
 - 📖First Period of Computer Science
 ##
@@ -12,11 +12,6 @@
 
 <div>
   
-<img aling="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img aling="center" alt="Lucas-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img aling="center" alt="Lucas-type" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img aling="center" alt="Lucas-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img aling="center" alt="Lucas-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
            
 </div>
 
